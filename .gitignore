@@ -1,0 +1,15 @@
+.*
+.gitignore
+.idea
+
+
+AndrewOnly
+ANDREWONLY
+ANDREW_README.md
+ANDREW_SAMPLE.md
+
+
+ENVIRONMENT.yml
+requirements.txt
+SECRETS
+ToolBox_Code*
